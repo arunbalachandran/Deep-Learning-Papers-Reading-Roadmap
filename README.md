@@ -24,7 +24,8 @@ I would continue adding papers to this roadmap.
 ## Status - Finished first 2 chapters with decent comprehension. Started chapter 3.
 **[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An MIT Press book. (2015). [[pdf]](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf) **(Deep Learning Bible, you can read this book while reading following papers.)** :star::star::star::star::star:
 
-## 1.1 Survey [x]
+## 1.1 Survey
+## Status - Read first page and then stopped because I need to revise partial derivatives and Gradient Descent.
 
 **[1]** LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "**Deep learning**." Nature 521.7553 (2015): 436-444. [[pdf]](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) **(Three Giants' Survey)** :star::star::star::star::star:
 
